@@ -1,2 +1,4 @@
 Mutia Resolusi :
 Lulus SIB Cyber Security dengan hasil yang memuaskan
+-devops
+-python
